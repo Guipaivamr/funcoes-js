@@ -3,7 +3,7 @@
 // function anonymous
 
 //parametros (parameters)
-const sum = function(number1, number2) {
+/*const sum = function(number1, number2) {
     total = number1 + number2
     return total
 }
@@ -32,4 +32,13 @@ function fazerSuco(fruta1, fruta2) {
 
 const copo = fazerSuco('banana', 'maça')
 
-console.log(copo)
+console.log(copo)*/
+
+
+function somarNumber(number4, number3) {
+    return number4 + number3
+}
+
+let somaTotal = somarNumber(150, 200)
+
+console.log(somaTotal)
